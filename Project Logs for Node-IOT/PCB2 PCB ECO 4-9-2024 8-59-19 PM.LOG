@@ -1,0 +1,6 @@
+Added Component: Designator=STM?(STM32F103 KIT)
+Added Component: Designator=U?(ESP12)
+Add component (AddParameter): Name = "IC"; Value = "ESP8266-EX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Ai-thinker"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet2 Member=Component STM? KIT STM32F103C8T6
+Added Member To Class: ClassName=Sheet2 Member=Component U? ESP 12
