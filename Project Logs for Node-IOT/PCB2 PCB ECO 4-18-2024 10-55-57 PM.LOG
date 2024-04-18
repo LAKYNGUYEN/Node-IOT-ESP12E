@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=P3 Old Footprint=CON 3 3EDG5.08 New Footprint=CON 4 4EDG5.08
+Change Component Comment : Designator=P3 Old Comment=CON 3 EDG5.08 New Comment=CON 4 EDG5.08
+Change component parameters: Designator = "P3" ("P3"); Footprint = "CON 3 3EDG5.08"; UniqueID = "\ILSMJTZH" ("\ILSMJTZH")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH000979"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 4 2EDG5.08-4P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADC Pin=P3-4

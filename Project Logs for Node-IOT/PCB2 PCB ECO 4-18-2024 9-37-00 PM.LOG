@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GPIO01 Pin=KF1-1
+Removed Pin From Net: NetName=GPIO01 Pin=KF1-1
+Removed Pin From Net: NetName=GPIO09 Pin=KF1-2
+Removed Pin From Net: NetName=GPIO09 Pin=KF1-2
+Removed Member From Class: ClassName=Sheet2 Member=KF1
+Added Component: Designator=P?(CON 2 2EDG5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000759"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 2 2EDG5.08-2P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GPIO01 Pin=P?-1
+Added Pin To Net: NetName=GPIO09 Pin=P?-2
+Added Member To Class: ClassName=Sheet2 Member=Component P2 CON 4 EDG5.08
+Added Member To Class: ClassName=Sheet2 Member=Component P? CON 2 EDG5.08
