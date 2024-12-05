@@ -1,0 +1,34 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: PCB2.PcbDoc   5/9/2024  5:09:43 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : PCB2-RoundHoles.TXT
+ASCII SlotHoles File : PCB2-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      28mil (0.711mm)                                           Round             6         PTH        1.73inch (44.00mm)
+T2      31mil (0.787mm)                                           Round             12        PTH        3.11inch (79.01mm)
+T3      32mil (0.813mm)                                           Round             9         PTH        2.31inch (58.67mm)
+T4      35mil (0.889mm)                                           Round             12        PTH        3.18inch (80.78mm)
+T5      35mil (0.9mm)                                             Round             4         PTH        0.30inch (7.62mm)
+T6      39mil (1mm)                                               Round             6         PTH        0.50inch (12.70mm)
+T7      40mil (1.016mm)                                           Round             6         PTH        3.69inch (93.73mm)
+T8      45mil (1.143mm)                                           Round             15        PTH        4.82inch (122.34mm)
+T9      50mil (1.27mm)                                            Slot              3         PTH        1.20inch (30.41mm)
+T10     51mil (1.3mm)                                             Round             9         PTH        2.07inch (52.50mm)
+T11     55mil (1.4mm)                                             Round             17        PTH        5.80inch (147.29mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              99
+
+Two holes at same point : 6
+-----------------------
+3160,3665
+3160,3465
+1470,3285
+1470,3085
+1465,3980
+1465,4180
+
+Total Processing Time (hh:mm:ss) : 00:00:00
